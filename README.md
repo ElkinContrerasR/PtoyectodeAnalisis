@@ -8,4 +8,7 @@
 - Trello: [Enlace al tablero de trello](https://trello.com/invite/b/6732633d681d51f0bb9fbfe7/ATTIde9c60f08d70439ebfefeff945f2cf6508707CC2/proyecto-gestor-de-contactos)
 
 
+## Video
+- Link video: [video](https://youtu.be/qcjqIhELTmk)
+
 
