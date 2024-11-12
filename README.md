@@ -1,4 +1,5 @@
 # Proyecto gestor de contactos
+Se necesita una aplicacación para la correcta CRUD de los contactos, en donde un usuario puede loguearse y acceder a sus contactos
 
 ## Repositorios
 - MVP: [Repositorio del mvp](https://github.com/ElkinContrerasR/MVP.git)
@@ -10,5 +11,3 @@
 
 ## Video
 - Link video: [video](https://youtu.be/qcjqIhELTmk)
-
-
