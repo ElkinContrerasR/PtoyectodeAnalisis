@@ -10,4 +10,4 @@ Se necesita una aplicacación para la correcta CRUD de los contactos, en donde u
 
 
 ## Video
-- Link video: [video](https://youtu.be/qcjqIhELTmk)
+- Link video: [video](https://youtu.be/wdAeczgr21o)
